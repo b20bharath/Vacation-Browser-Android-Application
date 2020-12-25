@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SAI_BHARATH_KUMAR_BANDI_PROJECT02</string>
+    <string name="title_activity_image_veiw">ImageVeiwActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_image_view_full">ImageViewFull</string>
+
+    <string-array name="carName">
+        <item>Audi E-tron</item>
+        <item>BMW i8</item>
+        <item>Bugatti Veyron</item>
+        <item>Ferrari 458</item>
+        <item>Koenigsegg Jesko</item>
+        <item>Lamborghini Aventador</item>
+        <item>Range Rover Velar</item>
+        <item>Tesla X</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://www.audiusa.com/us/web/en/models/e-tron/e-tron/2021/overview.html</item>
+        <item>https://www.bmwusa.com/vehicles/bmwi/i8/overview.html</item>
+        <item>https://www.bugatti.com/models/veyron-models/veyron-164-grand-sport/</item>
+        <item>https://www.ferrari.com/en-US/auto/458-italia</item>
+        <item>https://www.koenigsegg.com/car/jesko/</item>
+        <item>https://www.lamborghini.com/en-en/brand/masterpieces/aventador-coupe</item>
+        <item>https://www.landroverusa.com/vehicles/range-rover-velar/index.html</item>
+        <item>https://www.tesla.com/modelx</item>
+    </string-array>
+
+    <string-array name="list0">
+        <item>1. Flecher Johns Audi, 1523 W North Ave, Chicago, IL 60642</item>
+        <item>2. Audi Exchange, 2490 skokie valley Road, Highland park, IL 60035</item>
+        <item>3. Continental Audi of Naperville, 1527 Aurora Ave, Naperville, IL 60540</item>
+    </string-array>
+    <string-array name="list1">
+        <item>1. Perillo BMW, 1035 N Clark St, Chicago, IL 60610</item>
+        <item>2. Patrick BMW, 700 E Golf Road, Schaumburg, IL 60173</item>
+        <item>3. BMW of Barrington 1475 S. Barrington Rd, Barrington, IL 60010</item>
+    </string-array>
+    <string-array name="list2">
+        <item>1. Bugatti Chicago, 834 North Rush Street, Chicago, IL 60611</item>
+        <item>2. Luxury Plus, 834 North Rush Street Chicago IL 60611</item>
+        <item>3. Chicago Motor Cars, 27W110 North Ave  West Chicago, IL 60185</item>
+    </string-array>
+    <string-array name="list3">
+        <item>1. Gold Coast, 834 North Rush St., Chicago, IL 60611</item>
+        <item>2. Chicago Motor Cars, 27W110 North Ave  West Chicago, IL 60185</item>
+        <item>3. GlenView Luxury Imports, 301 WAUKEGAN RD. GLENVIEW, IL 60025</item>
+    </string-array>
+    <string-array name="list4">
+        <item>1. Koenigsegg Chicago, 990 N Shore Dr, Lake Bluff, IL 60044</item>
+        <item>2. Gold Coast, 834 N Rush St, Chicago, IL 60611</item>
+        <item>3. Howard Orloff, 1924 N Paulina St, Chicago, IL 60622</item>
+    </string-array>
+    <string-array name="list5">
+        <item>1. Baha Auto, 4257 W North Ave, Chicago, IL 60639</item>
+        <item>2. Premium Auto, 26200 N, IL-83, Mundelein, IL 60060</item>
+        <item>3. Lamborghini Gold Coast, 834 N Rush St, Chicago, IL 60611</item>
+    </string-array>
+    <string-array name="list6">
+        <item>1. Luxury AutoMax, 17651 Oak Park Ave, Tinley Park, IL 60477</item>
+        <item>2. AUTOSPORT INC,  470 W Roosevelt Rd, West Chicago, IL 60185</item>
+        <item>3. Land Rover Chicago, 1919 N Paulina St, Chicago, IL 60622</item>
+    </string-array>
+    <string-array name="list7">
+        <item>1. Tesla, 1053 W Grand Ave., Chicago, IL 60642</item>
+        <item>2. Tesla, 901 N Rush St, Chicago, IL 60611</item>
+        <item>3. Tesla, 1200 Old Skokie Valley Rd, Highland Park, IL 60035</item>
+    </string-array>
+
+
+</resources>
